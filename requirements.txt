@@ -1,0 +1,21 @@
+﻿# Core numerical and analysis stack
+numpy>=1.24
+scipy>=1.10
+pandas>=2.0
+
+# Dataset loading and Hugging Face model execution
+datasets>=2.18
+transformers>=4.40
+accelerate>=0.28
+torch>=2.1
+safetensors>=0.4
+sentencepiece>=0.2
+
+# Environment configuration
+python-dotenv>=1.0
+
+# Runtime/resource monitoring
+psutil>=5.9
+
+# Plot and table/report generation
+matplotlib>=3.7
